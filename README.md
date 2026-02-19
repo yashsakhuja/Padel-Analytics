@@ -6,6 +6,9 @@ Fully automated computer vision pipeline that downloads a padel match from YouTu
 ![YOLOv8](https://img.shields.io/badge/YOLO-v11n-green)
 ![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red)
 
+
+<img width="1280" height="566" alt="Screenshot 2026-02-19 225113" src="https://github.com/user-attachments/assets/56708f79-b85d-40c2-8365-6164bff9248b" />
+
 ---
 
 ## Quick Start
