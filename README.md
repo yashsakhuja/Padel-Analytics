@@ -1,4 +1,4 @@
-# Padel Analytics
+# AI Powered Padel insights
 
 Fully automated computer vision pipeline that downloads a padel match from YouTube, detects and tracks 4 players, maps their positions onto a 2D bird's-eye court minimap, generates post-match heatmaps, and opens an interactive Streamlit dashboard — all with a single command, zero user interaction.
 
