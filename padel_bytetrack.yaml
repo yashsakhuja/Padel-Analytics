@@ -1,0 +1,9 @@
+# Custom ByteTrack config tuned for padel (exactly 4 players)
+
+tracker_type: bytetrack
+track_high_thresh: 0.5    # only confident detections get first-stage matching
+track_low_thresh: 0.15    # second-stage threshold
+new_track_thresh: 0.7     # very hard to create new tracks — needs high confidence
+track_buffer: 150         # keep lost tracks alive for 5 seconds (prevents ID reassignment)
+match_thresh: 0.85        # stricter IoU association
+fuse_score: True
