@@ -1,4 +1,4 @@
-# Padel Court Analytics
+# Padel Analytics
 
 Fully automated computer vision pipeline that downloads a padel match from YouTube, detects and tracks 4 players, maps their positions onto a 2D bird's-eye court minimap, generates post-match heatmaps, and opens an interactive Streamlit dashboard — all with a single command, zero user interaction.
 
@@ -268,3 +268,5 @@ pip install streamlit
 **Slow processing** — Use `--skip-frames 2` or `--skip-frames 3`. GPU (CUDA) gives 5-10x speedup over CPU.
 
 **Dashboard won't launch** — Run it manually: `streamlit run dashboard.py`. Make sure `output/match_data.pkl` exists.
+
+Note: This is a Vibe-Coding Project by the developer.
