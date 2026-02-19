@@ -1,0 +1,19 @@
+{
+  "video_path": "D:\\Padel Analytics\\raw\\(Replay) Riyadh Season Premier Padel P1 \ud83c\uddf8\ud83c\udde6\ud83c\udfbe\uff1a Center Court (\ud83c\uddec\ud83c\udde7) (February 10th)_8261-8288s.mp4",
+  "fps": 30.0,
+  "duration_s": 27.0,
+  "frames_processed": 810,
+  "unique_tracks": 4,
+  "team_assignments": {
+    "1": 0,
+    "4": 1,
+    "3": 1,
+    "2": 0
+  },
+  "player_position_counts": {
+    "1": 810,
+    "4": 807,
+    "3": 810,
+    "2": 808
+  }
+}
